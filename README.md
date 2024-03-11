@@ -13,7 +13,7 @@ It autogenerates a PDF with the lines I need to develop a negotiation with a cli
 
 **Client:** Javascript.
 
-**Server:** PHP - setasign/TPFFD - setasign/fpdf
+**Server:** PHP - setasign/TFPFD - setasign/fpdf
 ## Installation
 
 Install this plugin within the WordPress plugins menu.
@@ -29,4 +29,4 @@ Install this plugin within the WordPress plugins menu.
 
 ## Soporte
 
-Para más soporte, envía un correo a contacto@robertochoa.com.
+For more support, send an email to a contacto@robertochoa.com.
