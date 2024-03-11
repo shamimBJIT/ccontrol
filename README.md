@@ -6,17 +6,17 @@
 
 # Client control
 
-CRM Personalizado en Plugin para WordPress. Este plugin genera factura / presupuesto y lleva un control de los clientes que voy recibiendo en mi emprendimiento.
+Custom CRM Plugin for WordPress. This plugin generates an invoice/estimate and keeps track of the clients that I receive in my business.
 
-Autogenera un PDF con las lineas que necesito para desarrollar una negociación con algun cliente. Ademas de enviarlo directamente a mi correo o al correo de mi elección.
-## Tecnologías
+It autogenerates a PDF with the lines I need to develop a negotiation with a client. In addition to sending it directly to my email or the email of my choice.
+## Technologies
 
-**Cliente:** Javascript.
+**Client:** Javascript.
 
-**Server:** PHP - setasign/TFPFD - setasign/fpdf
-## Instalación
+**Server:** PHP - setasign/TPFFD - setasign/fpdf
+## Installation
 
-Instala este plugin dentro del menu plugins de WordPress.
+Install this plugin within the WordPress plugins menu.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -25,7 +25,7 @@ Instala este plugin dentro del menu plugins de WordPress.
 ## Authors
 
 - [Robert Ochoa](https://www.robertochoaweb.com/casos/ccontrol)
-
+- [Shamim Khan](https://webdevgenies.com/)
 
 ## Soporte
 
